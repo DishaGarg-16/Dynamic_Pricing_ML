@@ -53,6 +53,7 @@ The project works in two main phases:
 ---
 
 ## 📂 Project Structure
+```text
 ├── 1_generate_data.py # Script to create synthetic_ecommerce_data.csv 
 ├── 2_train_model.py # Script to train the ML model and save the pipeline 
 ├── app.py # The main Streamlit application 
@@ -60,6 +61,7 @@ The project works in two main phases:
 ├── requirements.txt # Python dependencies for deployment 
 ├── .gitignore # Files to be ignored by Git 
 └── README.md # This file
+```
 
 ---
 
