@@ -10,8 +10,8 @@ It serves as a decision-support tool for a category manager. Instead of relying 
 
 **You can access the live application here:**
 **[https://dynamicpricingml-5ypejqyqlfetgrdiv2uy5g.streamlit.app/](https://dynamicpricingml-5ypejqyqlfetgrdiv2uy5g.streamlit.app/)**
+<img width="1920" height="869" alt="image" src="https://github.com/user-attachments/assets/e6475c27-1cd7-427f-987a-375ab11cd551" />
 
-*(**To add a screenshot:** Take a picture of your app, save it as `screenshot.png` in this repository, then uncomment the line below by removing the ``)*
 
 ---
 
