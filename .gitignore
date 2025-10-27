@@ -1,0 +1,13 @@
+echo "
+# Python
+venv/
+*.venv/
+__pycache__/
+*.pyc
+
+# Data (not needed for the deployed app)
+synthetic_ecommerce_data.csv
+
+# OS files
+.DS_Store
+" > .gitignore
