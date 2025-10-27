@@ -9,7 +9,7 @@ It serves as a decision-support tool for a category manager. Instead of relying 
 ## 🚀 Live Demo & Screenshot
 
 **You can access the live application here:**
-**[https://YOUR-APP-URL.streamlit.app/](https://YOUR-APP-URL.streamlit.app/)**
+**[https://YOUR-APP-URL.streamlit.app/](https://dynamicpricingml-5ypejqyqlfetgrdiv2uy5g.streamlit.app/)**
 
 *(**To add a screenshot:** Take a picture of your app, save it as `screenshot.png` in this repository, then uncomment the line below by removing the ``)*
 
