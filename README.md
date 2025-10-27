@@ -1,6 +1,6 @@
 # 📈 Dynamic Pricing Simulator for E-Commerce
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR-APP-URL.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dynamicpricingml-5ypejqyqlfetgrdiv2uy5g.streamlit.app/)
 
 This project is an interactive web application that uses a machine learning model to find the optimal price for e-commerce products.
 
@@ -9,7 +9,7 @@ It serves as a decision-support tool for a category manager. Instead of relying 
 ## 🚀 Live Demo & Screenshot
 
 **You can access the live application here:**
-**[https://YOUR-APP-URL.streamlit.app/](https://dynamicpricingml-5ypejqyqlfetgrdiv2uy5g.streamlit.app/)**
+**[https://dynamicpricingml-5ypejqyqlfetgrdiv2uy5g.streamlit.app/](https://dynamicpricingml-5ypejqyqlfetgrdiv2uy5g.streamlit.app/)**
 
 *(**To add a screenshot:** Take a picture of your app, save it as `screenshot.png` in this repository, then uncomment the line below by removing the ``)*
 
